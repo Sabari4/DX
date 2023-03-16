@@ -1,0 +1,21 @@
+
+.container{
+    margin-top: 18%;
+    margin-left: 40%;
+    margin-right: 45%;
+    background-color: blueviolet;
+}
+
+
+.img{
+    background-color:black ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    color: black;
+}
+::placeholder {
+    color: red;
+    opacity: 1; 
+  }
